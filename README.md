@@ -1,2 +1,2 @@
 # sannotrial
-This is a trial website for sanno real estate Company
+This is a website for sanno real estate Company
